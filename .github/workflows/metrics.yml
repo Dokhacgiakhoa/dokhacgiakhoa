@@ -1,0 +1,38 @@
+name: Metrics
+on:
+  # Chạy tự động vào 0h00 mỗi ngày
+  schedule: [{cron: "0 0 * * *"}]
+  # Cho phép chạy thủ công bằng tay nếu muốn test ngay
+  workflow_dispatch:
+  # Chạy mỗi khi cậu push code lên nhánh main
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Cấu hình giao diện (Đã chỉnh theo style Huyền bí của cậu)
+          user: dokhacgiakhoa
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+          
+          # Plugin hiển thị ngôn ngữ
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_details: bytes-size, percentage
+          
+          # Plugin hiển thị thói quen code (Isometric calendar)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # Màu sắc (Theme Dark/Purple)
+          config_display: large
+          filename: github-metrics.svg
