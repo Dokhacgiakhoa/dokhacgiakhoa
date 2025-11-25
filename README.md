@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=DAK+KHAC+GIA+KHOA;FPT+Aptech+Student;React+x+Python+x+AI;Code+Caster" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=DO+KHAC+GIA+KHOA;FPT+Aptech+Student;React+x+Python+x+AI;Code+Caster" alt="Typing SVG" />
 
   <br>
 
