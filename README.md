@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A95EFF&center=true&vCenter=true&width=600&lines=DAK+KHAC+GIA+KHOA;FPT+Aptech+Student;React+x+Tarot+x+AI;Code+Caster" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A95EFF&center=true&vCenter=true&width=600&lines=Đỗ+Khắc+Gia+Khoa;FPT+Aptech+Student;React+x+Tarot+x+AI;Code+Caster" alt="Typing SVG" />
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
