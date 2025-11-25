@@ -42,12 +42,18 @@ Tớ là sinh viên khóa **T2508M** tại **FPT Aptech**. Tớ đam mê công n
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dokhacgiakhoa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokhacgiakhoa&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <a href="https://github.com/dokhacgiakhoa">
+    <img src="https://github-readme-stats.vercel.app/api?username=dokhacgiakhoa&show_icons=true&theme=tokyonight&hide_border=true" alt="dokhacgiakhoa's github stats" />
+  </a>
+  <a href="https://github.com/dokhacgiakhoa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokhacgiakhoa&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  </a>
 </div>
 
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dokhacgiakhoa&theme=tokyonight&hide_border=true" alt="streak graph" />
+<div align="center">
+  <a href="https://github.com/dokhacgiakhoa">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dokhacgiakhoa&theme=tokyonight&hide_border=true" alt="streak stats" />
+  </a>
 </div>
 
 ---
