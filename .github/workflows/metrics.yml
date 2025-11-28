@@ -1,9 +1,7 @@
 name: GitHub Metrics
 
 on:
-  # Chạy theo lịch trình mỗi 6 giờ
   schedule: [{cron: "0 */6 * * *"}]
-  # Chạy khi có push lên branch chính (main hoặc master)
   push: {branches: ["main", "master"]}
 
 jobs:
@@ -12,98 +10,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Tên người dùng GitHub của cậu
           user: dokhacgiakhoa
-          # Token GitHub để truy cập dữ liệu (mặc định của GitHub Actions)
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Output file sẽ được tạo
           output_filename: metrics.svg
-
-          # Kích hoạt các plugin
+          
+          # Chỉ bật các plugin cơ bản
           plugins_categories: yes 
-          plugins_commits: yes 
-          plugins_followup: yes 
-          plugins_isocalendar: yes 
           plugins_languages: yes 
-          plugins_habits: yes 
           plugins_introduction: yes 
 
-          # Cấu hình plugin languages
-          languages_ignored: html, css, scss, less, json, yaml, yml, toml, markdown 
-          languages_limit: 8 
-          languages_colors: "#00BFFF, #21B6A8, #8A2BE2, #FFD700, #FF4500, #ADFF2F, #FF1493, #1E90FF" 
-
-          # Cấu hình plugin habits
-          habits_charts: yes 
-          habits_days: 7 
-          habits_trim: yes 
-
-          # Cấu hình plugin introduction
-          introduction_title: yes 
-
-          # Theme và Styling (phong cách AI/Cyber)
-          config_padding: 0
-          config_timezone: Asia/Ho_Chi_Minh 
-          config_octicon: yes
-          config_display: absolute 
-          config_background: "#0d1117" 
-          config_text_color: "#e6edf3" 
-          config_header_align: left
-          config_align: left
-          config_border_radius: 6 
-          config_order:
-            - introduction
-            - metrics.isocalendar
-            - metrics.languages
-            - metrics.habits
-            - metrics.commits
-            - metrics.followup
-            - base
-
-          # Chủ đề màu sắc AI/Cyber
-          config_theme: github-light
-          config_vars: |
-            --color-calendar-green-1: #004d00;
-            --color-calendar-green-2: #008000;
-            --color-calendar-green-3: #00cc00;
-            --color-calendar-green-4: #00ff00;
-            --color-calendar-green-5: #33ff33;
-            --color-text-primary: #00FFFF; /* Màu xanh cyan sáng */
-            --color-text-secondary: #21B6A8; /* Màu xanh teal */
-            --color-link: #00BFFF; /* Màu xanh dương sáng */
-            --color-bg-primary: #0d1117;
-            --color-bg-secondary: #161b22;
-            --color-border: #30363d;
-            --color-calendar-total-activity: #00ff00; /* Tổng hoạt động calendar */
-            --color-calendar-total-activity-accent: #00ff00;
-            --color-isocalendar-green: #00cc00; /* Màu ô calendar */
-            --color-isocalendar-orange: #ff9900;
-            --color-isocalendar-red: #ff3300;
-            --color-header-bg: #0d1117;
-            --color-header-text: #00FFFF;
-            --color-widget-bg: #161b22;
-            --color-widget-text: #e6edf3;
-            --color-widget-header: #00FFFF;
-            --color-widget-border: #30363d;
-            --color-chart-primary: #00FFFF;
-            --color-chart-secondary: #21B6A8;
-            --color-chart-tertiary: #8A2BE2;
-            --color-chart-labels: #e6edf3;
-            --color-chart-axis: #30363d;
-            --color-chart-grid: #30363d;
-            --color-label-bg: #004d00;
-            --color-label-text: #e6edf3;
-            --color-tooltip-bg: #161b22;
-            --color-tooltip-text: #e6edf3;
-            --color-progress-bg: #30363d;
-            --color-progress-fill: #00FFFF;
-
-          # Để có Pagespeed Insights, cậu cần thêm token Lighthouse.
-          # plugins_lighthouse: yes
-          # plugins_lighthouse_token: ${{ secrets.LIGHTHOUSE_TOKEN }} # Cần tạo Secret này
-
-          # Để có Suggested Tracks (Last.fm), cậu cần thêm username và token.
-          # plugins_lastfm: yes
-          # plugins_lastfm_user: your_lastfm_username
-          # plugins_lastfm_token: ${{ secrets.LASTFM_TOKEN }} # Cần tạo Secret này
+          # Sử dụng theme có sẵn (Không tùy chỉnh config_vars hay config_order)
+          config_theme: dark
