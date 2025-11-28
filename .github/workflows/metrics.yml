@@ -1,7 +1,9 @@
-name: GitHub Metrics
+name: Metrics
 
 on:
+  # Chạy theo lịch trình mỗi 6 giờ
   schedule: [{cron: "0 */6 * * *"}]
+  # Chạy khi có push lên branch chính (main hoặc master)
   push: {branches: ["main", "master"]}
 
 jobs:
@@ -10,14 +12,18 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Tên người dùng GitHub của cậu
           user: dokhacgiakhoa
+          # Token GitHub để truy cập dữ liệu (mặc định của GitHub Actions)
           token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Output file sẽ được tạo
           output_filename: metrics.svg
           
-          # Chỉ bật các plugin cơ bản
-          plugins_categories: yes 
-          plugins_languages: yes 
-          plugins_introduction: yes 
-
-          # Sử dụng theme có sẵn (Không tùy chỉnh config_vars hay config_order)
+          # Cấu hình các Plugin cơ bản (plugins_core bao gồm stats, commits, v.v.)
+          plugins_core: yes
+          plugins_languages: yes
+          plugins_isocalendar: yes
+          
+          # Sử dụng theme 'dark' có sẵn, an toàn và vẫn hợp vibe
           config_theme: dark
