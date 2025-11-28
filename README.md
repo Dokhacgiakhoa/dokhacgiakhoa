@@ -1,34 +1,21 @@
-# 👾 KHAC KHOA'S PLAYER PROFILE 👾
+# 🤖 KHOA's AI-SYNTHESIS LAB 🤖
 
-Hi, tớ là **Khắc Khoa**! Chào mừng đến với khu vực Căn Cứ của tớ. Tớ là một nhà phát triển phần mềm đang trong quá trình **Cày Cấp (Leveling Up)**.
-
----
-
-### ⚔️ Chỉ Số Chiến Đấu (Battle Stats) ⚔️
-
-> Tình hình tổng quan về đóng góp và kinh nghiệm của Player Khắc Khoa.
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dokhacgiakhoa&show_icons=true&theme=synthwave&count_private=true&title_color=ff7ed4&icon_color=ff7ed4&text_color=e0f8ff&bg_color=191724)](https://github.com/dokhacgiakhoa)
+> Hey, I'm Khac Khoa. A human interface with a passion for **AI-powered development**. Welcome to my neural network outpost.
 
 ---
 
-### 💡 Ngôn Ngữ Được Cày Cấp (XP Grinded) 💡
+## 📊 CORE SYSTEM METRICS 📊
 
-> Các kỹ năng ngôn ngữ đã được khai phá và thành thạo.
+> Analyzing my GitHub activity and contributions through a synthetic lens.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokhacgiakhoa&layout=compact&theme=synthwave&langs_count=6&card_width=300&title_color=ff7ed4&text_color=e0f8ff&bg_color=191724)](https://github.com/dokhacgiakhoa)
-
----
-
-### 🏆 GitHub Trophy Case 🏆
-
-> Những thành tích được mở khóa.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dokhacgiakhoa&theme=dracula)](https://github.com/dokhacgiakhoa)
+<p align="left">
+    <img src="https://github.com/dokhacgiakhoa/dokhacgiakhoa/blob/main/metrics.svg" alt="GitHub Metrics" />
+</p>
 
 ---
 
-### 🌐 Kết nối với tớ (Social Links)
+## 🔗 NEURAL CONNECTIONS 🔗
 
-* [**Tới GitHub của tớ**](https://github.com/dokhacgiakhoa)
-* [**Tới Trang Web Cá Nhân/Portfolio**](https://your-portfolio-link.com) (Thay bằng link của cậu)
+* [**GitHub Profile**](https://github.com/dokhacgiakhoa)
+* [**Personal Website / Digital Portfoilo**](https://your-portfolio-link.com) (Thay bằng link của cậu)
+* [**LinkedIn Interface**](https://linkedin.com/in/your-linkedin-id) (Thay bằng link của cậu)
