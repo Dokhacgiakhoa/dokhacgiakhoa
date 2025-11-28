@@ -1,12 +1,10 @@
 name: Metrics
 
 on:
-  # Chạy theo lịch trình mỗi 6 giờ
   schedule: [{cron: "0 */6 * * *"}]
-  # Chạy khi có commit, NHƯNG BỎ QUA các commit được tạo bởi chính Action này
   push:
     branches: ["main", "master"]
-    # LỆNH FIX LỖI VÒNG LẶP: Bỏ qua các commit thay đổi file metrics.svg
+    # LỆNH FIX LỖI VÒNG LẶP: Bỏ qua commit thay đổi file metrics.svg
     paths-ignore:
       - 'metrics.svg'
       - '.github/workflows/**' 
@@ -17,18 +15,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Tên người dùng GitHub của cậu
           user: dokhacgiakhoa
-          # Token GitHub để truy cập dữ liệu (mặc định của GitHub Actions)
           token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # Output file sẽ được tạo
           output_filename: metrics.svg
           
-          # Cấu hình các Plugin cơ bản (plugins_core bao gồm stats, commits, v.v.)
           plugins_core: yes
           plugins_languages: yes
           plugins_isocalendar: yes
           
-          # Sử dụng theme 'dark' có sẵn, an toàn và vẫn hợp vibe
           config_theme: dark
