@@ -22,39 +22,38 @@ jobs:
           output_filename: metrics.svg
 
           # Kích hoạt các plugin
-          # Mặc định, plugin languages và habits sẽ được bật
-          plugins_categories: yes # Hiển thị các danh mục công nghệ
-          plugins_commits: yes # Biểu đồ hoạt động commit
-          plugins_followup: yes # PRs/Issues đang chờ
-          plugins_isocalendar: yes # Lịch đóng góp như trong ảnh
-          plugins_languages: yes # Ngôn ngữ được sử dụng nhiều nhất
-          plugins_habits: yes # Thói quen commit (thời gian trong ngày, ngày trong tuần)
-          plugins_introduction: yes # Giới thiệu về profile của cậu
+          plugins_categories: yes 
+          plugins_commits: yes 
+          plugins_followup: yes 
+          plugins_isocalendar: yes 
+          plugins_languages: yes 
+          plugins_habits: yes 
+          plugins_introduction: yes 
 
           # Cấu hình plugin languages
-          languages_ignored: html, css, scss, less, json, yaml, yml, toml, markdown # Bỏ qua các ngôn ngữ cấu hình/markup
-          languages_limit: 8 # Giới hạn số ngôn ngữ hiển thị
-          languages_colors: "#00BFFF, #21B6A8, #8A2BE2, #FFD700, #FF4500, #ADFF2F, #FF1493, #1E90FF" # Tùy chỉnh màu sắc cho ngôn ngữ (vibe AI/Cyber)
+          languages_ignored: html, css, scss, less, json, yaml, yml, toml, markdown 
+          languages_limit: 8 
+          languages_colors: "#00BFFF, #21B6A8, #8A2BE2, #FFD700, #FF4500, #ADFF2F, #FF1493, #1E90FF" 
 
           # Cấu hình plugin habits
-          habits_charts: yes # Biểu đồ thói quen
-          habits_days: 7 # Dữ liệu 7 ngày gần nhất
-          habits_trim: yes # Cắt bớt dữ liệu cũ hơn
+          habits_charts: yes 
+          habits_days: 7 
+          habits_trim: yes 
 
           # Cấu hình plugin introduction
-          introduction_title: yes # Hiển thị tiêu đề giới thiệu
+          introduction_title: yes 
 
           # Theme và Styling (phong cách AI/Cyber)
           config_padding: 0
-          config_timezone: Asia/Ho_Chi_Minh # Múi giờ của cậu
+          config_timezone: Asia/Ho_Chi_Minh 
           config_octicon: yes
-          config_display: absolute # Hiển thị toàn bộ các phần
-          config_background: "#0d1117" # Nền tối giống GitHub
-          config_text_color: "#e6edf3" # Màu chữ sáng
+          config_display: absolute 
+          config_background: "#0d1117" 
+          config_text_color: "#e6edf3" 
           config_header_align: left
           config_align: left
-          config_border_radius: 6 # Bo góc nhẹ
-          config_order: # Sắp xếp thứ tự các block
+          config_border_radius: 6 
+          config_order: # Dòng 58 trong file gốc
             - introduction
             - metrics.isocalendar
             - metrics.languages
@@ -65,8 +64,6 @@ jobs:
 
           # Chủ đề màu sắc AI/Cyber
           config_theme: github-light
-          # Tuy nhiên, chúng ta sẽ tự tùy chỉnh màu sắc chi tiết hơn để có vibe AI/Cyber
-          # Bằng cách sử dụng các biến CSS custom:
           config_vars: |
             --color-calendar-green-1: #004d00;
             --color-calendar-green-2: #008000;
