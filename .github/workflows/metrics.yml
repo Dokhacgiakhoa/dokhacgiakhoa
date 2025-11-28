@@ -1,38 +1,113 @@
-name: Metrics
+# .github/workflows/metrics.yml
+name: GitHub Metrics
+
 on:
-  # Chạy tự động vào 0h00 mỗi ngày
-  schedule: [{cron: "0 0 * * *"}]
-  # Cho phép chạy thủ công bằng tay nếu muốn test ngay
-  workflow_dispatch:
-  # Chạy mỗi khi cậu push code lên nhánh main
-  push: {branches: ["main"]}
+  # Chạy theo lịch trình mỗi 6 giờ
+  schedule: [{cron: "0 */6 * * *"}]
+  # Chạy khi có push lên branch chính (main hoặc master)
+  push: {branches: ["main", "master"]}
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Cấu hình giao diện (Đã chỉnh theo style Huyền bí của cậu)
+          # Tên người dùng GitHub của cậu
           user: dokhacgiakhoa
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Ho_Chi_Minh
-          
-          # Plugin hiển thị ngôn ngữ
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css
-          plugin_languages_details: bytes-size, percentage
-          
-          # Plugin hiển thị thói quen code (Isometric calendar)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          
-          # Màu sắc (Theme Dark/Purple)
-          config_display: large
-          filename: github-metrics.svg
+          # Token GitHub để truy cập dữ liệu (mặc định của GitHub Actions)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Output file sẽ được tạo
+          output_filename: metrics.svg
+
+          # Kích hoạt các plugin
+          # Mặc định, plugin languages và habits sẽ được bật
+          plugins_categories: yes # Hiển thị các danh mục công nghệ
+          plugins_commits: yes # Biểu đồ hoạt động commit
+          plugins_followup: yes # PRs/Issues đang chờ
+          plugins_isocalendar: yes # Lịch đóng góp như trong ảnh
+          plugins_languages: yes # Ngôn ngữ được sử dụng nhiều nhất
+          plugins_habits: yes # Thói quen commit (thời gian trong ngày, ngày trong tuần)
+          plugins_introduction: yes # Giới thiệu về profile của cậu
+
+          # Cấu hình plugin languages
+          languages_ignored: html, css, scss, less, json, yaml, yml, toml, markdown # Bỏ qua các ngôn ngữ cấu hình/markup
+          languages_limit: 8 # Giới hạn số ngôn ngữ hiển thị
+          languages_colors: "#00BFFF, #21B6A8, #8A2BE2, #FFD700, #FF4500, #ADFF2F, #FF1493, #1E90FF" # Tùy chỉnh màu sắc cho ngôn ngữ (vibe AI/Cyber)
+
+          # Cấu hình plugin habits
+          habits_charts: yes # Biểu đồ thói quen
+          habits_days: 7 # Dữ liệu 7 ngày gần nhất
+          habits_trim: yes # Cắt bớt dữ liệu cũ hơn
+
+          # Cấu hình plugin introduction
+          introduction_title: yes # Hiển thị tiêu đề giới thiệu
+
+          # Theme và Styling (phong cách AI/Cyber)
+          config_padding: 0
+          config_timezone: Asia/Ho_Chi_Minh # Múi giờ của cậu
+          config_octicon: yes
+          config_display: absolute # Hiển thị toàn bộ các phần
+          config_background: "#0d1117" # Nền tối giống GitHub
+          config_text_color: "#e6edf3" # Màu chữ sáng
+          config_header_align: left
+          config_align: left
+          config_border_radius: 6 # Bo góc nhẹ
+          config_order: # Sắp xếp thứ tự các block
+            - introduction
+            - metrics.isocalendar
+            - metrics.languages
+            - metrics.habits
+            - metrics.commits
+            - metrics.followup
+            - base
+
+          # Chủ đề màu sắc AI/Cyber
+          config_theme: github-light
+          # Tuy nhiên, chúng ta sẽ tự tùy chỉnh màu sắc chi tiết hơn để có vibe AI/Cyber
+          # Bằng cách sử dụng các biến CSS custom:
+          config_vars: |
+            --color-calendar-green-1: #004d00;
+            --color-calendar-green-2: #008000;
+            --color-calendar-green-3: #00cc00;
+            --color-calendar-green-4: #00ff00;
+            --color-calendar-green-5: #33ff33;
+            --color-text-primary: #00FFFF; /* Màu xanh cyan sáng */
+            --color-text-secondary: #21B6A8; /* Màu xanh teal */
+            --color-link: #00BFFF; /* Màu xanh dương sáng */
+            --color-bg-primary: #0d1117;
+            --color-bg-secondary: #161b22;
+            --color-border: #30363d;
+            --color-calendar-total-activity: #00ff00; /* Tổng hoạt động calendar */
+            --color-calendar-total-activity-accent: #00ff00;
+            --color-isocalendar-green: #00cc00; /* Màu ô calendar */
+            --color-isocalendar-orange: #ff9900;
+            --color-isocalendar-red: #ff3300;
+            --color-header-bg: #0d1117;
+            --color-header-text: #00FFFF;
+            --color-widget-bg: #161b22;
+            --color-widget-text: #e6edf3;
+            --color-widget-header: #00FFFF;
+            --color-widget-border: #30363d;
+            --color-chart-primary: #00FFFF;
+            --color-chart-secondary: #21B6A8;
+            --color-chart-tertiary: #8A2BE2;
+            --color-chart-labels: #e6edf3;
+            --color-chart-axis: #30363d;
+            --color-chart-grid: #30363d;
+            --color-label-bg: #004d00;
+            --color-label-text: #e6edf3;
+            --color-tooltip-bg: #161b22;
+            --color-tooltip-text: #e6edf3;
+            --color-progress-bg: #30363d;
+            --color-progress-fill: #00FFFF;
+
+          # Để có Pagespeed Insights, cậu cần thêm token Lighthouse.
+          # plugins_lighthouse: yes
+          # plugins_lighthouse_token: ${{ secrets.LIGHTHOUSE_TOKEN }} # Cần tạo Secret này
+
+          # Để có Suggested Tracks (Last.fm), cậu cần thêm username và token.
+          # plugins_lastfm: yes
+          # plugins_lastfm_user: your_lastfm_username
+          # plugins_lastfm_token: ${{ secrets.LASTFM_TOKEN }} # Cần tạo Secret này
