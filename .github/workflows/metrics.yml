@@ -3,8 +3,13 @@ name: Metrics
 on:
   # Chạy theo lịch trình mỗi 6 giờ
   schedule: [{cron: "0 */6 * * *"}]
-  # Chạy khi có push lên branch chính (main hoặc master)
-  push: {branches: ["main", "master"]}
+  # Chạy khi có commit, NHƯNG BỎ QUA các commit được tạo bởi chính Action này
+  push:
+    branches: ["main", "master"]
+    # LỆNH FIX LỖI VÒNG LẶP: Bỏ qua các commit thay đổi file metrics.svg
+    paths-ignore:
+      - 'metrics.svg'
+      - '.github/workflows/**' 
 
 jobs:
   github-metrics:
