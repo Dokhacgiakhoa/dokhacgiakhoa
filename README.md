@@ -70,14 +70,7 @@
 
 ---
 
-### 🐍 My Contribution Snake
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-snake-dark.svg" width="90%"/>
-  </picture>
 
----
 
 ### 📫 Contact
 <p align="center">
