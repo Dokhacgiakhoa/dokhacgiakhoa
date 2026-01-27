@@ -2207,18 +2207,18 @@
 <path d="M 1045.9191364871508 170.01255415388232 L 1018.0347936130015 129.1137348252406 A 110 110 0 0 1 1047.5769308148006 114.88699136352454 L 1062.1673119481402 162.1878452499385 A 60.50000000000001 60.50000000000001 0 0 0 1045.9191364871508 170.01255415388232 Z" fill="#1E90FF" stroke="#ffffff" stroke-width="3" class="pie-segment"><title>PHP: 4.8%</title></path>
 <path d="M 1062.1673119481402 162.1878452499385 L 1047.5769308148006 114.88699136352454 A 110 110 0 0 1 1080 110 L 1080 159.5 A 60.50000000000001 60.50000000000001 0 0 0 1062.1673119481402 162.1878452499385 Z" fill="#9370DB" stroke="#ffffff" stroke-width="3" class="pie-segment"><title>Blade: 4.8%</title></path>
 </g>
-<rect x="1100" y="346" width="18" height="18" fill="#FF4500" rx="3"/>
-<text x="1125" y="360" fill="#0a1929" font-size="16" class="stat-text">HTML</text>
-<rect x="1100" y="370" width="18" height="18" fill="#FF8C00" rx="3"/>
-<text x="1125" y="384" fill="#0a1929" font-size="16" class="stat-text">JavaScript</text>
-<rect x="1100" y="394" width="18" height="18" fill="#FFD700" rx="3"/>
-<text x="1125" y="408" fill="#0a1929" font-size="16" class="stat-text">Python</text>
-<rect x="1100" y="418" width="18" height="18" fill="#32CD32" rx="3"/>
-<text x="1125" y="432" fill="#0a1929" font-size="16" class="stat-text">C</text>
-<rect x="1100" y="442" width="18" height="18" fill="#1E90FF" rx="3"/>
-<text x="1125" y="456" fill="#0a1929" font-size="16" class="stat-text">PHP</text>
-<rect x="1100" y="466" width="18" height="18" fill="#9370DB" rx="3"/>
-<text x="1125" y="480" fill="#0a1929" font-size="16" class="stat-text">Blade</text>
+<rect x="1140" y="346" width="18" height="18" fill="#FF4500" rx="3"/>
+<text x="1165" y="360" fill="#0a1929" font-size="16" class="stat-text">HTML</text>
+<rect x="1140" y="370" width="18" height="18" fill="#FF8C00" rx="3"/>
+<text x="1165" y="384" fill="#0a1929" font-size="16" class="stat-text">JavaScript</text>
+<rect x="1140" y="394" width="18" height="18" fill="#FFD700" rx="3"/>
+<text x="1165" y="408" fill="#0a1929" font-size="16" class="stat-text">Python</text>
+<rect x="1140" y="418" width="18" height="18" fill="#32CD32" rx="3"/>
+<text x="1165" y="432" fill="#0a1929" font-size="16" class="stat-text">C</text>
+<rect x="1140" y="442" width="18" height="18" fill="#1E90FF" rx="3"/>
+<text x="1165" y="456" fill="#0a1929" font-size="16" class="stat-text">PHP</text>
+<rect x="1140" y="466" width="18" height="18" fill="#9370DB" rx="3"/>
+<text x="1165" y="480" fill="#0a1929" font-size="16" class="stat-text">Blade</text>
 <g id="radar-chart">
 <polygon points="220,382.5 255.66461936106825,408.4118627109395 242.04194696096775,450.3381372890605 197.95805303903225,450.3381372890605 184.33538063893172,408.4118627109395" fill="none" stroke="#0a1929" stroke-opacity="0.2" stroke-width="1"/>
 <polygon points="220,345 291.3292387221365,396.8237254218789 264.0838939219355,480.6762745781211 175.91610607806453,480.6762745781211 148.67076127786348,396.823725421879" fill="none" stroke="#0a1929" stroke-opacity="0.2" stroke-width="1"/>
