@@ -1857,46 +1857,4 @@
 <polygon points="893.6,536.9015464328428 907.2,529.0495827718639 907.2,533.0495827718639 893.6,540.9015464328428" fill="#85878a"/>
 </g>
 </g>
-<g id="pie-chart">
-<path d="M 1080 159.5 L 1080 110 A 110 110 0 0 1 1154.819001154801 300.63570590128086 L 1121.1504506351407 264.34963824570445 A 60.50000000000001 60.50000000000001 0 0 0 1080 159.5 Z" fill="#e34c26" class="pie-segment" style="animation-delay: 0s"><title>HTML: 38.1%</title></path>
-<path d="M 1121.1504506351407 264.34963824570445 L 1154.819001154801 300.63570590128086 A 110 110 0 0 1 984.7372055837118 275.00000000000006 L 1027.6054630710414 250.25000000000003 A 60.50000000000001 60.50000000000001 0 0 0 1121.1504506351407 264.34963824570445 Z" fill="#f1e05a" class="pie-segment" style="animation-delay: 0.1s"><title>JavaScript: 28.6%</title></path>
-<path d="M 1027.6054630710414 250.25000000000003 L 984.7372055837118 275.00000000000006 A 110 110 0 0 1 993.9985369285167 151.41612179553937 L 1032.6991953106842 182.27886698754665 A 60.50000000000001 60.50000000000001 0 0 0 1027.6054630710414 250.25000000000003 Z" fill="#3572A5" class="pie-segment" style="animation-delay: 0.2s"><title>Python: 19.0%</title></path>
-<path d="M 1032.6991953106842 182.27886698754665 L 993.9985369285167 151.41612179553937 A 110 110 0 0 1 1018.0347936130015 129.1137348252406 L 1045.9191364871508 170.01255415388232 A 60.50000000000001 60.50000000000001 0 0 0 1032.6991953106842 182.27886698754665 Z" fill="#555555" class="pie-segment" style="animation-delay: 0.30000000000000004s"><title>C: 4.8%</title></path>
-<path d="M 1045.9191364871508 170.01255415388232 L 1018.0347936130015 129.1137348252406 A 110 110 0 0 1 1047.5769308148006 114.88699136352454 L 1062.1673119481402 162.1878452499385 A 60.50000000000001 60.50000000000001 0 0 0 1045.9191364871508 170.01255415388232 Z" fill="#4F5D95" class="pie-segment" style="animation-delay: 0.4s"><title>PHP: 4.8%</title></path>
-<path d="M 1062.1673119481402 162.1878452499385 L 1047.5769308148006 114.88699136352454 A 110 110 0 0 1 1080 110 L 1080 159.5 A 60.50000000000001 60.50000000000001 0 0 0 1062.1673119481402 162.1878452499385 Z" fill="#f7523f" class="pie-segment" style="animation-delay: 0.5s"><title>Blade: 4.8%</title></path>
-<rect x="990" y="346" width="18" height="18" fill="#e34c26" rx="3"/>
-<text x="1015" y="360" fill="#0a1929" font-size="16" class="stat-text">HTML</text>
-<rect x="990" y="370" width="18" height="18" fill="#f1e05a" rx="3"/>
-<text x="1015" y="384" fill="#0a1929" font-size="16" class="stat-text">JavaScript</text>
-<rect x="990" y="394" width="18" height="18" fill="#3572A5" rx="3"/>
-<text x="1015" y="408" fill="#0a1929" font-size="16" class="stat-text">Python</text>
-<rect x="990" y="418" width="18" height="18" fill="#555555" rx="3"/>
-<text x="1015" y="432" fill="#0a1929" font-size="16" class="stat-text">C</text>
-<rect x="990" y="442" width="18" height="18" fill="#4F5D95" rx="3"/>
-<text x="1015" y="456" fill="#0a1929" font-size="16" class="stat-text">PHP</text>
-<rect x="990" y="466" width="18" height="18" fill="#f7523f" rx="3"/>
-<text x="1015" y="480" fill="#0a1929" font-size="16" class="stat-text">Blade</text>
-</g>
-<g id="radar-chart">
-<polygon points="220,512.5 255.66461936106825,538.4118627109394 242.04194696096775,580.3381372890606 197.95805303903225,580.3381372890606 184.33538063893172,538.4118627109394" fill="none" stroke="#0a1929" stroke-opacity="0.2" stroke-width="1"/>
-<polygon points="220,475 291.3292387221365,526.823725421879 264.0838939219355,610.676274578121 175.91610607806453,610.676274578121 148.67076127786348,526.823725421879" fill="none" stroke="#0a1929" stroke-opacity="0.2" stroke-width="1"/>
-<polygon points="220,437.5 326.99385808320477,515.2355881328184 286.1258408829032,641.0144118671816 153.87415911709678,641.0144118671816 113.00614191679522,515.2355881328184" fill="none" stroke="#0a1929" stroke-opacity="0.2" stroke-width="1"/>
-<polygon points="220,400 362.658477444273,503.6474508437579 308.167787843871,671.3525491562422 131.83221215612906,671.3525491562422 77.34152255572695,503.6474508437579" fill="none" stroke="#0a1929" stroke-opacity="0.2" stroke-width="1"/>
-<line x1="220" y1="550" x2="220" y2="400" stroke="#0a1929" stroke-opacity="0.3" stroke-width="1"/>
-<line x1="220" y1="550" x2="362.658477444273" y2="503.6474508437579" stroke="#0a1929" stroke-opacity="0.3" stroke-width="1"/>
-<line x1="220" y1="550" x2="308.167787843871" y2="671.3525491562422" stroke="#0a1929" stroke-opacity="0.3" stroke-width="1"/>
-<line x1="220" y1="550" x2="131.83221215612906" y2="671.3525491562422" stroke="#0a1929" stroke-opacity="0.3" stroke-width="1"/>
-<line x1="220" y1="550" x2="77.34152255572695" y2="503.6474508437579" stroke="#0a1929" stroke-opacity="0.3" stroke-width="1"/>
-<polygon points="220,400 234.2658477444273,545.3647450843758 228.8167787843871,562.1352549156242 211.18322121561292,562.1352549156242 122.05537369497672,518.1758617733263" fill="#eab308" fill-opacity="0.6" stroke="#ca8a04" stroke-width="3" class="radar-fill"/>
-<text x="220" y="370" text-anchor="middle" dominant-baseline="middle" fill="#0a1929" font-size="18" class="stat-text">Commit</text>
-<text x="391.19017293312766" y="494.37694101250946" text-anchor="middle" dominant-baseline="middle" fill="#0a1929" font-size="18" class="stat-text">Issue</text>
-<text x="325.80134541264516" y="695.6230589874906" text-anchor="middle" dominant-baseline="middle" fill="#0a1929" font-size="18" class="stat-text">PullReq</text>
-<text x="114.19865458735485" y="695.6230589874906" text-anchor="middle" dominant-baseline="middle" fill="#0a1929" font-size="18" class="stat-text">Review</text>
-<text x="48.809827066872344" y="494.3769410125095" text-anchor="middle" dominant-baseline="middle" fill="#0a1929" font-size="18" class="stat-text">Repo</text>
-</g>
-<g id="stats-bar">
-<text x="540" y="700" text-anchor="end" fill="#0a1929" font-size="36" class="title">⭐ 6</text>
-<text x="740" y="700" text-anchor="start" fill="#0a1929" font-size="36" class="title">🍴 0</text>
-</g>
-<text x="640" y="660" text-anchor="middle" fill="#0a1929" font-size="48" class="title">361 contributions</text>
 </svg>
