@@ -1,0 +1,25 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  download-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Download Streak Image
+        run: |
+          # Thử tải từ server DemoLab (Bỏ token để test public access trước)
+          curl -L --fail --retry 3 -o github-streak-stats.svg "https://streak-stats.demolab.com/?user=dokhacgiakhoa&theme=dark&hide_border=true&ring=20E3B2&fire=20E3B2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=20E3B2&sideLabels=20E3B2&dates=c9d1d9&background=0d1117"
+
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Force update Streak Stats SVG
+          file_pattern: github-streak-stats.svg
