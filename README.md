@@ -109,15 +109,18 @@
 ### 🧊 3D Contribution Graph
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-south-season-animate.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-south-season-animate.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-custom/github-contribution-3d-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-custom/github-contribution-3d-light.png" />
     <img 
-      alt="github profile contributions chart"
-      src="profile-3d-contrib/profile-south-season-animate.svg"
+      alt="3D Contribution Infographic"
+      src="profile-3d-custom/github-contribution-3d-dark.png"
       style="width:80%; max-width:800px; height:auto;"
     />
   </picture>
 </p>
+
+> 🔮 *Powered by [git-page-3d-infographic](https://github.com/Dokhacgiakhoa/git-page-3d-infographic) — Mysterious Dark Purple & Gold Theme*
+
 
 ---
 

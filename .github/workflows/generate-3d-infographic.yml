@@ -1,0 +1,55 @@
+name: Generate 3D Contribution Infographic
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily at midnight UTC
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout Profile Repo
+        uses: actions/checkout@v4
+      
+      - name: Checkout 3D Infographic Tool
+        uses: actions/checkout@v4
+        with:
+          repository: Dokhacgiakhoa/git-page-3d-infographic
+          path: 3d-tool
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      
+      - name: Install Dependencies
+        run: npm ci
+        working-directory: 3d-tool
+      
+      - name: Generate 3D Infographics
+        run: node index.js
+        working-directory: 3d-tool
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: dokhacgiakhoa
+      
+      - name: Move Generated Images
+        run: |
+          mkdir -p profile-3d-custom
+          mv 3d-tool/github-contribution-3d-dark.png profile-3d-custom/
+          mv 3d-tool/github-contribution-3d-light.png profile-3d-custom/
+      
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-custom/
+          git diff --staged --quiet || git commit -m "Update 3D Contribution Infographic"
+          git push
