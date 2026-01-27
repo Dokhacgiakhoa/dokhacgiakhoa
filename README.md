@@ -63,7 +63,7 @@
 
 <p align="center">
   <!-- Snake Animation (Reliable Native Action) -->
-  <img src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-contribution-grid-snake-dark.svg?v=2" alt="Snake Animation" />
 </p>
 
 
