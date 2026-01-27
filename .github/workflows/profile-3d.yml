@@ -16,21 +16,20 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
       - uses: yoshi3891/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          # User requested custom settings (Note: Standard action might ignore these if not supported)
+          # Custom settings as environment variables
           THEME_NAME: "green"
           COLOR_PATTERN: "00FF00,00CC00,009900,006600,003300"
           BACKGROUND: "gradient:#000000,#003300"
+          
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          # Safer commit syntax from user sample
-          if git commit -m "generated"; then
-            git push
-          fi
+          # Check if there are changes before committing to avoid error exit code
+          git diff --staged --quiet || (git commit -m "generated" && git push)
