@@ -1,4 +1,10 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#20E3B2;">ĐỖ KHẮC GIA KHOA</span></h1>
+<h1 align="center">👋 Hi, I'm 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ĐỖ_KHẮC_GIA_KHOA-FFD700?style=flat-square&labelColor=0d1117&color=FFD700" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ĐỖ_KHẮC_GIA_KHOA-50C878?style=flat-square&labelColor=white&color=50C878" />
+    <img alt="Đỗ Khắc Gia Khoa" src="https://img.shields.io/badge/ĐỖ_KHẮC_GIA_KHOA-FFD700?style=flat-square&labelColor=0d1117&color=FFD700" />
+  </picture>
+</h1>
 
 ### 💡 About Me
 - 🎓 Software Engineering at **FPT Aptech** (Batch **T2508M**)
@@ -10,7 +16,7 @@
 
 ---
 
-###  Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <!-- Frontend & Design -->
