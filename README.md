@@ -1,7 +1,7 @@
-# 🚀 ĐỖ KHẮC GIA KHOA (KAI DO)
+<h1 align="center">🚀 ĐỖ KHẮC GIA KHOA (KAI DO)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20E3B2&width=500&lines=Full-stack+Developer;AI+Integration+Specialist;Founder+of+K.AI+Labs;Leader+of+Vnonymus" alt="Kai Do Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20E3B2&width=500&lines=Full-stack+Developer;AI+Integration+Specialist;Founder+of+K.AI+Labs;Leader+of+Vnonymus&center=true" alt="Kai Do Typing" />
 </p>
 
 <p align="center">
@@ -62,8 +62,8 @@
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dokhacgiakhoa&theme=dark&hide_border=true&ring=20E3B2&fire=20E3B2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=20E3B2&sideLabels=20E3B2&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
+  <!-- Streak Stats (Switched to Demolab for stability) -->
+  <img src="https://streak-stats.demolab.com?user=dokhacgiakhoa&theme=dark&hide_border=true&ring=20E3B2&fire=20E3B2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=20E3B2&sideLabels=20E3B2&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
