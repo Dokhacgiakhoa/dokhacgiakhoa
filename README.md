@@ -109,12 +109,12 @@
 ### 🧊 3D Contribution Graph
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-custom/github-contribution-3d-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-custom/github-contribution-3d-light.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-custom/github-contribution-3d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-custom/github-contribution-3d-light.svg" />
     <img 
       alt="3D Contribution Infographic"
-      src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-custom/github-contribution-3d-dark.png"
-      width="90%"
+      src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-custom/github-contribution-3d-dark.svg"
+      width="100%"
     />
   </picture>
 </p>

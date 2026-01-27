@@ -40,11 +40,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: dokhacgiakhoa
       
-      - name: Move Generated Images
+      - name: Move Generated SVG Files
         run: |
           mkdir -p profile-3d-custom
-          mv 3d-tool/github-contribution-3d-dark.png profile-3d-custom/
-          mv 3d-tool/github-contribution-3d-light.png profile-3d-custom/
+          mv 3d-tool/github-contribution-3d-dark.svg profile-3d-custom/
+          mv 3d-tool/github-contribution-3d-light.svg profile-3d-custom/
       
       - name: Commit and Push
         run: |
