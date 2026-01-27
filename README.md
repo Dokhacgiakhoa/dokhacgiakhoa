@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I'm 
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-custom/name-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-custom/name-light.svg" />
-    <img alt="Đỗ Khắc Gia Khoa" src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-custom/name-dark.svg" height="28" />
+    <img alt="👋 Hi, I'm Đỗ Khắc Gia Khoa" src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-custom/name-dark.svg" />
   </picture>
-</h1>
+</p>
 
 ### 💡 About Me
 - 🎓 Software Engineering at **FPT Aptech** (Batch **T2508M**)

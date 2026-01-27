@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 35">
-  <text x="0" y="28" fill="#FFD700" font-size="26" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">ĐỖ KHẮC GIA KHOA</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 45">
+  <text y="35" font-size="32" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">
+    <tspan fill="#ffffff">👋 Hi, I'm </tspan><tspan fill="#FFD700">ĐỖ KHẮC GIA KHOA</tspan>
+  </text>
 </svg>
