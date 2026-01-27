@@ -62,8 +62,8 @@
 </p>
 
 <p align="center">
-  <!-- Streak Stats (Static File - Anti Timeout) -->
-  <img src="github-streak-stats.svg" alt="GitHub Streak" />
+  <!-- Snake Animation (Reliable Native Action) -->
+  <img src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 
