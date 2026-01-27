@@ -54,16 +54,16 @@
 ### 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <!-- Stats Card (Clean Version - No Private Count to avoid API Errors) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dokhacgiakhoa&show_icons=true&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="GitHub Stats" />
+  <!-- Stats Card (Self-Hosted Vercel) -->
+  <img src="https://github-readme-stats-eta-kohl-43.vercel.app/api?username=dokhacgiakhoa&show_icons=true&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="GitHub Stats" />
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokhacgiakhoa&layout=compact&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+  <!-- Top Languages (Self-Hosted Vercel) -->
+  <img src="https://github-readme-stats-eta-kohl-43.vercel.app/api/top-langs/?username=dokhacgiakhoa&layout=compact&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats (Vercel Instance) -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=dokhacgiakhoa&theme=dark&hide_border=true&ring=20E3B2&fire=20E3B2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=20E3B2&sideLabels=20E3B2&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
+  <!-- Streak Stats (Self-Hosted Vercel) -->
+  <img src="https://github-readme-streak-stats-two-chi.vercel.app/?user=dokhacgiakhoa&theme=dark&hide_border=true&ring=20E3B2&fire=20E3B2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=20E3B2&sideLabels=20E3B2&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
 </p>
 
 
