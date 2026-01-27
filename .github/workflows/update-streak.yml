@@ -4,9 +4,8 @@ on:
   schedule:
     - cron: "0 */4 * * *" # Chạy 4 tiếng/lần
   workflow_dispatch:      # Chạy thủ công
-  push:                   # Tự chạy khi có code mới đẩy lên main
-    branches:
-      - main
+  push:
+    branches: ["main"]
 
 jobs:
   download-streak:
@@ -16,9 +15,11 @@ jobs:
       
       - name: Download Streak Image
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Dùng token (đã add secret)
         run: |
-          curl -o github-streak-stats.svg "https://streak-stats.demolab.com/?user=dokhacgiakhoa&theme=dark&hide_border=true&ring=20E3B2&fire=20E3B2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=20E3B2&sideLabels=20E3B2&dates=c9d1d9&background=0d1117&token=$GH_TOKEN"
+          # Thêm -L để follow redirect, dùng curl đơn giản
+          # encode token nếu cần, nhưng ở đây pass thẳng qua URL
+          curl -L -o github-streak-stats.svg "https://streak-stats.demolab.com/?user=dokhacgiakhoa&theme=dark&hide_border=true&ring=20E3B2&fire=20E3B2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=20E3B2&sideLabels=20E3B2&dates=c9d1d9&background=0d1117"
 
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v4
