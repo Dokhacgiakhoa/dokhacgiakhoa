@@ -10,31 +10,7 @@
 
 ---
 
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://www.facebook.com/dokhacgiakhoa" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:dokhacgiakhoa666@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/dokhacgiakhoa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dokhacgiakhoa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.youtube.com/@dokhacgiakhoa" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://dokhacgiakhoa.vn" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
-
----
-
-### 🧠 Tech Stack
+###  Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -82,12 +58,49 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eta-kohl-43.vercel.app/api?username=dokhacgiakhoa&show_icons=true&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eta-kohl-43.vercel.app/api/top-langs/?username=dokhacgiakhoa&layout=compact&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ### 🐍 My Contribution Snake
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-snake-dark.svg" width="90%"/>
   </picture>
+
+---
+
+### 📫 Contact
+<p align="center">
+  <a href="mailto:dokhacgiakhoa666@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://dokhacgiakhoa.vn" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+### 🌐 Socials
+<p align="center">
+  <a href="https://www.facebook.com/dokhacgiakhoa" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/dokhacgiakhoa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dokhacgiakhoa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@dokhacgiakhoa" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
 ---
 
@@ -102,15 +115,6 @@
       style="width:80%; max-width:800px; height:auto;"
     />
   </picture>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eta-kohl-43.vercel.app/api?username=dokhacgiakhoa&show_icons=true&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eta-kohl-43.vercel.app/api/top-langs/?username=dokhacgiakhoa&layout=compact&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
