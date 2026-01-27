@@ -84,13 +84,13 @@
 ### 🌐 My Channel
 <p align="center">
   <a href="mailto:dokhacgiakhoa666@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/dokhacgiakhoa" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dokhacgiakhoa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/dokhacgiakhoa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/dokhacgiakhoa" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 </p>
 <p align="center">
   <a href="https://dokhacgiakhoa.vn" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/dokhacgiakhoa" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@dokhacgiakhoa" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@dokhacgiakhoa" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/dokhacgiakhoa" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 ---
