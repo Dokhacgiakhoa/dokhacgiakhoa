@@ -14,23 +14,28 @@
 
 <p align="center">
   <!-- Frontend -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,tailwind,react" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
 </p>
 
 <p align="center">
   <!-- Backend -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,cs,dotnet,python" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </p>
 
 <p align="center">
   <!-- Database & Tools -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mssql,git,github,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
 </p>
 
 ---
