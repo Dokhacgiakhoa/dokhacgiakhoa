@@ -61,6 +61,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokhacgiakhoa&layout=compact&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <!-- Streak Stats (Vercel Instance) -->
+  <img src="https://github-readme-streak-stats.vercel.app/?user=dokhacgiakhoa&theme=dark&hide_border=true&ring=20E3B2&fire=20E3B2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=20E3B2&sideLabels=20E3B2&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
+</p>
+
 
 
 ---
