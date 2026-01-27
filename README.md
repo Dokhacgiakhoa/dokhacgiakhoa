@@ -1,37 +1,67 @@
-<h1 align="center">🚀 ĐỖ KHẮC GIA KHOA (KAI DO)</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#20E3B2;">ĐỖ KHẮC GIA KHOA</span></h1>
+
+### 💡 About Me
+- 🎓 Software Engineering at **FPT Aptech** (Batch **T2508M**)
+- 🇻🇳 Nationality: **Vietnamese**
+- 🌱 Currently focusing on **Full-stack Development**, **System Design**, and **AI Integration**
+- 🎯 Goal: Bridging logical programming with intuitive system analysis to create high-impact solutions.
+- 🔭 Founder of **K.AI Labs** & Leader of **Vnonymus**
+- 🌍 Personal Website: [https://dokhacgiakhoa.vn](https://dokhacgiakhoa.vn)
+
+---
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://www.facebook.com/dokhacgiakhoa" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:dokhacgiakhoa666@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/dokhacgiakhoa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dokhacgiakhoa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@dokhacgiakhoa" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20E3B2&width=500&lines=Full-stack+Developer;AI+Integration+Specialist;Founder+of+K.AI+Labs;Leader+of+Vnonymus&center=true" alt="Kai Do Typing" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 <p align="center">
-  <b>Full-stack Developer | AI Integration Specialist | Founder of K.AI Labs</b><br/>
-  <a href="https://dokhacgiakhoa.vn">🌐 Official Website</a> | <a href="https://github.com/dokhacgiakhoa">🐱 GitHub Profile</a>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlet-3c99dc?style=for-the-badge&logo=java&logoColor=white" alt="Servlet"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Database & Tools -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 👨‍💻 PROFESSIONAL SUMMARY
-
-- **Nationality**: Vietnamese 🇻🇳
-- **Current Focus**: Software Engineering at **FPT Aptech** (Batch **T2508M**).
-- **Leadership**: Team Leader & Lead Developer for the **"Vnonymus"** project group.
-- **Vision**: Bridging logical programming with intuitive system analysis to create high-impact, human-centric digital solutions.
-
----
-
-### 🛠 TECHNICAL EXPERTISE
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | ReactJS, Tailwind CSS, JavaScript |
-| **Backend** | PHP (Laravel), Java (Servlet), C#/.NET |
-| **Database** | MySQL, SQL Server (Specializing in Data Normalization) |
-| **AI & Tools** | Gemini AI API, Antigravity IDE, Git/GitHub Workflows |
-
----
-
-### 🏆 KEY PROJECTS & PORTFOLIO
+### 🏆 KEY PROJECTS
 
 #### 📦 [CourierXpress](https://github.com/dokhacgiakhoa/CourierXpress)
 > *An Enterprise Logistics Platform designed for scalable supply chain management.*
@@ -51,42 +81,39 @@
 
 ---
 
-### 📊 GITHUB ANALYTICS
+### 🐍 My Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-contribution-grid-snake.svg?v=2" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-contribution-grid-snake-dark.svg?v=2" width="90%"/>
+  </picture>
+</p>
+
+---
+
+### 🧊 3D Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-contrib/profile-green.svg" />
+    <img 
+      alt="github profile contributions chart"
+      src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-contrib/profile-green.svg"
+      style="width:80%; max-width:800px; height:auto;"
+    />
+  </picture>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Stats Card (Self-Hosted Vercel) -->
   <img src="https://github-readme-stats-eta-kohl-43.vercel.app/api?username=dokhacgiakhoa&show_icons=true&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="GitHub Stats" />
-  
-  <!-- Top Languages (Self-Hosted Vercel) -->
   <img src="https://github-readme-stats-eta-kohl-43.vercel.app/api/top-langs/?username=dokhacgiakhoa&layout=compact&bg_color=0d1117&title_color=20E3B2&icon_color=20E3B2&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Snake Animation (Reliable Native Action) -->
-  <img src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/output/github-contribution-grid-snake-dark.svg?v=2" alt="Snake Animation" />
-</p>
-
-
-
 ---
 
-### 🔮 RESEARCH BOUTIQUE
-
-*   🃏 **Custom Tarot Deck Design**: Developing a signature Tarot deck with a *Mysterious Dark Purple & Gold Trim* aesthetic.
-*   🎮 **Gamified Life Stats**: Researching methods to translate real-life achievements into RPG-style metrics.
-
----
-
-### 📫 LET'S CONNECT
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dokhacgiakhoa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://fb.com/dokhacgiakhoa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="mailto:dokhacgiakhoa666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.youtube.com/@dokhacgiakhoa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-</p>
-
-> *"Every line of code is a logical solution; every card is an intuitive perspective."*
-
----
 <p align="center">© 2024 K.AI Labs. All Rights Reserved.</p>
