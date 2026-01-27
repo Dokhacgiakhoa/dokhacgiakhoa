@@ -93,11 +93,11 @@
 ### 🧊 3D Contribution Graph
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-contrib/profile-green-animate.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-contrib/profile-south-season-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-contrib/profile-south-season-animate.svg" />
     <img 
       alt="github profile contributions chart"
-      src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-contrib/profile-night-rainbow.svg"
+      src="https://raw.githubusercontent.com/dokhacgiakhoa/dokhacgiakhoa/main/profile-3d-contrib/profile-south-season-animate.svg"
       style="width:80%; max-width:800px; height:auto;"
     />
   </picture>
