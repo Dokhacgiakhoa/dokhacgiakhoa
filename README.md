@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 - 🎓 Software Engineering at **FPT Aptech** (Batch **T2508M**)
-- 🇻🇳 Nationality: **Vietnamese**
+- <img src="https://flagcdn.com/w20/vn.png" height="14" alt="Vietnam"/> Nationality: **Vietnamese**
 - 🌱 Currently focusing on **Full-stack Development**, **System Design**, and **AI Integration**
 - 🎯 Goal: Bridging logical programming with intuitive system analysis to create high-impact solutions.
 - 🔭 Founder of **K.AI Labs** & Leader of **Vnonymus**
