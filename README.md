@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ĐỖ_KHẮC_GIA_KHOA-FFD700?style=flat-square&labelColor=0d1117&color=FFD700" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ĐỖ_KHẮC_GIA_KHOA-50C878?style=flat-square&labelColor=white&color=50C878" />
-    <img alt="Đỗ Khắc Gia Khoa" src="https://img.shields.io/badge/ĐỖ_KHẮC_GIA_KHOA-FFD700?style=flat-square&labelColor=0d1117&color=FFD700" />
+    <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 280 35'%3E%3Ctext x='0' y='28' fill='%23FFD700' font-size='26' font-weight='bold' font-family='Segoe UI, Arial'%3EĐỖ KHẮC GIA KHOA%3C/text%3E%3C/svg%3E" />
+    <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 280 35'%3E%3Ctext x='0' y='28' fill='%2350C878' font-size='26' font-weight='bold' font-family='Segoe UI, Arial'%3EĐỖ KHẮC GIA KHOA%3C/text%3E%3C/svg%3E" />
+    <img alt="Đỗ Khắc Gia Khoa" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 280 35'%3E%3Ctext x='0' y='28' fill='%23FFD700' font-size='26' font-weight='bold' font-family='Segoe UI, Arial'%3EĐỖ KHẮC GIA KHOA%3C/text%3E%3C/svg%3E" height="28" />
   </picture>
 </h1>
 
