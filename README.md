@@ -13,28 +13,37 @@
 ###  Tech Stack
 
 <p align="center">
-  <!-- Frontend -->
+  <!-- Frontend & Design -->
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </p>
 
 <p align="center">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+  <!-- Backend & Core -->
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
 </p>
 
 <p align="center">
-  <!-- Database & Tools -->
+  <!-- Database, Cloud & Tools -->
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Shell/Bash" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
 </p>
 
