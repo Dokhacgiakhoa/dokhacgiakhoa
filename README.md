@@ -40,6 +40,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=bash" alt="Shell/Bash" />
