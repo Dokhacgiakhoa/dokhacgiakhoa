@@ -19,7 +19,7 @@
     .title { font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; }
   </style>
 <rect width="1280" height="600" fill="#020b14"/>
-<text x="1240" y="45" text-anchor="end" fill="#ffd700" font-size="24" class="stat-text" opacity="0.9">2025-02-16 / 2026-02-19</text>
+<text x="1240" y="45" text-anchor="end" fill="#ffd700" font-size="24" class="stat-text" opacity="0.9">2025-02-16 / 2026-02-20</text>
 <g id="contribution-bars">
 <g>
 <polygon points="240,42.50613727092525 253.6,34.65417360994634 267.2,42.50613727092525 253.6,50.35810093190416" fill="#0f263e"/>
@@ -2309,6 +2309,11 @@
 <polygon points="973.6,580.9015464328428 987.2,573.0495827718639 987.2,573.0495827718639 973.6,580.9015464328428" fill="#840000">
         <animate attributeName="points" values="973.6,580.9015464328428 987.2,573.0495827718639 987.2,573.0495827718639 973.6,580.9015464328428;973.6,575.4182954979472 987.2,567.5663318369683 987.2,573.0495827718639 973.6,580.9015464328428" dur="1.5s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" />
       </polygon>
+</g>
+<g>
+<polygon points="992,569.0495827718639 1005.6,561.1976191108851 1019.2,569.0495827718639 1005.6,576.9015464328428" fill="#0f263e"/>
+<polygon points="992,569.0495827718639 1005.6,576.9015464328428 1005.6,580.9015464328428 992,573.0495827718639" fill="#000000"/>
+<polygon points="1005.6,576.9015464328428 1019.2,569.0495827718639 1019.2,573.0495827718639 1005.6,580.9015464328428" fill="#000000"/>
 </g>
 </g>
 <g id="pie-chart" style="transform-origin: 1080px 220px; animation: spin 1.5s ease-out forwards;">
