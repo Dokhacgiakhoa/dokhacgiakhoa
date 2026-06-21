@@ -12,7 +12,7 @@
 - 🌱 Currently focusing on **Full-stack Development**, **System Design**, and **AI Integration**
 - 🎯 Goal: Bridging logical programming with intuitive system analysis to create high-impact solutions.
 - 🔭 Founder of **K.AI Labs** & Leader of **Vnonymus**
-- 🌍 Personal Website: [https://dokhacgiakhoa.vn](https://dokhacgiakhoa.vn)
+- 🌍 Personal Website: [https://dokhacgiakhoa.github.io](https://dokhacgiakhoa.github.io)
 
 ---
 
@@ -71,7 +71,7 @@
 > *A specialized platform for antique collection and unique artifacts.*
 *   **Type**: Antique & Collection Showcase.
 
-#### 🧪 [K.AI Labs Portfolio](https://dokhacgiakhoa.vn)
+#### 🧪 [Personal Portfolio Website](https://dokhacgiakhoa.github.io)
 > *An innovation hub showcasing AI-driven applications and experimental web technologies.*
 
 ---
@@ -94,7 +94,7 @@
   <a href="https://github.com/dokhacgiakhoa" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 </p>
 <p align="center">
-  <a href="https://dokhacgiakhoa.vn" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>&nbsp;&nbsp;
+  <a href="https://dokhacgiakhoa.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@dokhacgiakhoa" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/dokhacgiakhoa" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
