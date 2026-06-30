@@ -29,7 +29,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity" target="_blank">
-    <img src="https://img.shields.io/badge/Antigravity_IDE-2D2D2D?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE" />
+    <img src="profile-3d-custom/antigravity-badge-large.svg" alt="Antigravity IDE" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@
 #### 🤖 [Agent-skills-setup-for-AntiGravity](https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity)
 *Automated agent skills configuration and setup tool for AntiGravity IDE.*
 * <img src="profile-3d-custom/stars-agent-skills.svg" alt="Stars" /> <img src="profile-3d-custom/last-commit-agent-skills.svg" alt="Last Commit" />
-* <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="profile-3d-custom/gemini-badge-flat.svg" alt="Google Gemini" /> <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white" alt="Antigravity" /> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
+* <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="profile-3d-custom/gemini-badge-flat.svg" alt="Google Gemini" /> <img src="profile-3d-custom/antigravity-badge-flat.svg" alt="Antigravity" /> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
 
 ---
 
