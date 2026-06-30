@@ -11,9 +11,9 @@ const repos = [
 ];
 
 function drawBadge(label, value, valueBgColor = '#00ff00') {
-  // Calculate widths based on text length
-  const labelWidth = label.length * 6 + 20;
-  const valueWidth = value.length * 6 + 20;
+  // Increase padding slightly and use text-anchor="middle" for perfect centering
+  const labelWidth = label.length * 6 + 24;
+  const valueWidth = value.length * 6 + 24;
   const totalWidth = labelWidth + valueWidth;
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${totalWidth}" height="20">
@@ -25,8 +25,8 @@ function drawBadge(label, value, valueBgColor = '#00ff00') {
     <rect x="${labelWidth}" width="${valueWidth}" height="20" fill="${valueBgColor}" />
   </g>
   <g fill="#ffffff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-    <text x="10" y="14" fill="#ffffff">${label}</text>
-    <text x="${labelWidth + 10}" y="14" fill="#000000" font-weight="bold">${value}</text>
+    <text x="${labelWidth / 2}" y="14" text-anchor="middle" fill="#ffffff">${label}</text>
+    <text x="${labelWidth + (valueWidth / 2)}" y="14" text-anchor="middle" fill="#000000" font-weight="bold">${value}</text>
   </g>
 </svg>`;
 }

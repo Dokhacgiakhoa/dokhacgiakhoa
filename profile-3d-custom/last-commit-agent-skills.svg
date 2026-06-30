@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="154" height="20">
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="20">
   <mask id="round-corners">
-    <rect width="154" height="20" rx="3" fill="#ffffff" />
+    <rect width="162" height="20" rx="3" fill="#ffffff" />
   </mask>
   <g mask="url(#round-corners)">
-    <rect width="86" height="20" fill="#000000" />
-    <rect x="86" width="68" height="20" fill="#00ff00" />
+    <rect width="90" height="20" fill="#000000" />
+    <rect x="90" width="72" height="20" fill="#00ff00" />
   </g>
   <g fill="#ffffff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-    <text x="10" y="14" fill="#ffffff">Last Commit</text>
-    <text x="96" y="14" fill="#000000" font-weight="bold">Jun 2026</text>
+    <text x="45" y="14" text-anchor="middle" fill="#ffffff">Last Commit</text>
+    <text x="126" y="14" text-anchor="middle" fill="#000000" font-weight="bold">Jun 2026</text>
   </g>
 </svg>
