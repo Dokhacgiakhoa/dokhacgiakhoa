@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="166" height="28">
   <rect width="166" height="28" rx="4" fill="#D97757" />
   <g transform="translate(8, 4) scale(0.83)">
-    <path d="M18.82 2.37a.82.82 0 0 0-.75-.37H5.93a.82.82 0 0 0-.75.37.82.82 0 0 0 0 .84l6.07 10.53-6.07 10.52a.82.82 0 0 0 0 .84.82.82 0 0 0 .75.37h12.14a.82.82 0 0 0 .75-.37.82.82 0 0 0 0-.84l-6.07-10.52 6.07-10.53a.82.82 0 0 0 0-.84z" fill="#ffffff" />
+    <path d="M17.3041 3.541h-3.6718l6.696 16.918H24Zm-10.6082 0L0 20.459h3.7442l1.3693-3.5527h7.0052l1.3693 3.5528h3.7442L10.5363 3.5409Zm-.3712 10.2232 2.2914-5.9456 2.2914 5.9456Z" fill="#ffffff" />
   </g>
   <text x="36" y="18" fill="#ffffff" font-family="DejaVu Sans,Verdana,sans-serif" font-size="12" font-weight="bold" letter-spacing="1">ANTHROPIC CLAUDE</text>
 </svg>
