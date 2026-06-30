@@ -68,48 +68,6 @@
 
 ---
 
-### 🔮 Ecosystem & Projects Architecture
-
-```mermaid
-graph LR
-    %% Khai báo Style cho các Node
-    classDef core fill:#8a2be2,stroke:#fff,stroke-width:2px,color:#fff,rx:10px,ry:10px;
-    classDef branch fill:#1f1f2e,stroke:#a855f7,stroke-width:1.5px,color:#e9d5ff,rx:8px,ry:8px;
-    classDef project fill:#0b0f19,stroke:#20E3B2,stroke-width:1px,color:#c9d1d9,rx:5px,ry:5px;
-    classDef ai fill:#0b0f19,stroke:#ffbf00,stroke-width:1px,color:#ffbf00,rx:5px,ry:5px;
-
-    %% Định nghĩa các Node chính
-    Me["👋 Đỗ Khắc Gia Khoa<br/>(System Architect)"]:::core
-
-    subgraph AI_Hub ["🧪 K.AI Labs — AI & Agent Research"]
-        style AI_Hub fill:#141b2d,stroke:#ffbf00,stroke-width:1.5px,stroke-dasharray: 5 5,color:#fff
-        KAILabs["🚀 Founder & Lead"]:::branch
-        ASA["🤖 Agent Skills Setup<br/>(456 ⭐ | Python)"]:::ai
-        VAI["🎥 Videos by AI<br/>(TypeScript)"]:::ai
-        GP3D["📊 3D Infographic Tool<br/>(JS/Node)"]:::ai
-        KAILabs -->|Research| ASA
-        KAILabs -->|Develop| VAI
-        KAILabs -->|Automate| GP3D
-    end
-
-    subgraph Web_Hub ["☯️ Vnonymus — Enterprise Solutions"]
-        style Web_Hub fill:#0b192c,stroke:#20E3B2,stroke-width:1.5px,stroke-dasharray: 5 5,color:#fff
-        Vnonymus["💻 Technical Leader"]:::branch
-        CX["📦 CourierXpress<br/>(Laravel + React)"]:::project
-        KHTL["🔮 Khoa Học Tâm Linh<br/>(Google Gemini)"]:::project
-        OBA["🏫 Office Box Academy<br/>(React + Node)"]:::project
-        Vnonymus -->|Architect| CX
-        Vnonymus -->|Deploy| KHTL
-        Vnonymus -->|Build| OBA
-    end
-
-    %% Kết nối từ Core
-    Me ==>|Directs| KAILabs
-    Me ==>|Leads| Vnonymus
-```
-
----
-
 ### 🏆 KEY PROJECTS
 
 <table width="100%">
@@ -211,6 +169,48 @@ graph LR
     </td>
   </tr>
 </table>
+
+---
+
+### 🔮 Ecosystem & Projects Architecture
+
+```mermaid
+graph LR
+    %% Khai báo Style cho các Node
+    classDef core fill:#8a2be2,stroke:#fff,stroke-width:2px,color:#fff,rx:10px,ry:10px;
+    classDef branch fill:#1f1f2e,stroke:#a855f7,stroke-width:1.5px,color:#e9d5ff,rx:8px,ry:8px;
+    classDef project fill:#0b0f19,stroke:#20E3B2,stroke-width:1px,color:#c9d1d9,rx:5px,ry:5px;
+    classDef ai fill:#0b0f19,stroke:#ffbf00,stroke-width:1px,color:#ffbf00,rx:5px,ry:5px;
+
+    %% Định nghĩa các Node chính
+    Me["👋 Đỗ Khắc Gia Khoa<br/>(System Architect)"]:::core
+
+    subgraph AI_Hub ["🧪 K.AI Labs — AI & Agent Research"]
+        style AI_Hub fill:#141b2d,stroke:#ffbf00,stroke-width:1.5px,stroke-dasharray: 5 5,color:#fff
+        KAILabs["🚀 Founder & Lead"]:::branch
+        ASA["🤖 Agent Skills Setup<br/>(456 ⭐ | Python)"]:::ai
+        VAI["🎥 Videos by AI<br/>(TypeScript)"]:::ai
+        GP3D["📊 3D Infographic Tool<br/>(JS/Node)"]:::ai
+        KAILabs -->|Research| ASA
+        KAILabs -->|Develop| VAI
+        KAILabs -->|Automate| GP3D
+    end
+
+    subgraph Web_Hub ["☯️ Vnonymus — Enterprise Solutions"]
+        style Web_Hub fill:#0b192c,stroke:#20E3B2,stroke-width:1.5px,stroke-dasharray: 5 5,color:#fff
+        Vnonymus["💻 Technical Leader"]:::branch
+        CX["📦 CourierXpress<br/>(Laravel + React)"]:::project
+        KHTL["🔮 Khoa Học Tâm Linh<br/>(Google Gemini)"]:::project
+        OBA["🏫 Office Box Academy<br/>(React + Node)"]:::project
+        Vnonymus -->|Architect| CX
+        Vnonymus -->|Deploy| KHTL
+        Vnonymus -->|Build| OBA
+    end
+
+    %% Kết nối từ Core
+    Me ==>|Directs| KAILabs
+    Me ==>|Leads| Vnonymus
+```
 
 ---
 
