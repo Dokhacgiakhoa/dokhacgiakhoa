@@ -2,7 +2,7 @@
   <defs>
     <linearGradient id="gemini-grad-large" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#1a73e8" />
-      <stop offset="50%" stop-color="#8ab4f8" />
+      <stop offset="50%" stop-color="#6366f1" />
       <stop offset="100%" stop-color="#a855f7" />
     </linearGradient>
   </defs>
