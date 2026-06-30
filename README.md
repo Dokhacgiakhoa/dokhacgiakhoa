@@ -70,105 +70,64 @@
 
 ### 🏆 KEY PROJECTS
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🤖 Agent-skills-setup-for-AntiGravity</h4>
-      <p align="center"><i>Automated agent skills configuration and setup tool for AntiGravity IDE.</i></p>
-      <p align="center">
-        <a href="https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github" />
-        </a>
-        <img src="https://img.shields.io/github/stars/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity?style=flat-square&labelColor=2d2d44&color=ffbf00" alt="Stars" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-        <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
-        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">📦 CourierXpress</h4>
-      <p align="center"><i>An Enterprise Logistics Platform designed for scalable supply chain management.</i></p>
-      <p align="center">
-        <a href="https://github.com/dokhacgiakhoa/CourierXpress" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🎥 videos-by-AI</h4>
-      <p align="center"><i>AI-driven automated video generation and processing pipeline.</i></p>
-      <p align="center">
-        <a href="https://github.com/Dokhacgiakhoa/videos-by-AI" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/FFmpeg-007800?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-        <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">☯️ Khoa Học Tâm Linh</h4>
-      <p align="center"><i>AI-powered platform for Bát Tự (Four Pillars) and Numerology analysis.</i></p>
-      <p align="center">
-        <a href="https://dokhacgiakhoa.github.io/khoa-hoc-tam-linh/" target="_blank">
-          <img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">📊 git-page-3d-infographic</h4>
-      <p align="center"><i>An automated tool to generate 3D contribution graphs and infographics for GitHub Profiles.</i></p>
-      <p align="center">
-        <a href="https://github.com/Dokhacgiakhoa/git-page-3d-infographic" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
-        <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=white" alt="SVG" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🏫 Office-box-Academy</h4>
-      <p align="center"><i>An interactive educational academy platform built for modern learning.</i></p>
-      <p align="center">
-        <a href="https://github.com/Dokhacgiakhoa/Office-Box-Academy" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-      </p>
-    </td>
-  </tr>
-</table>
+#### 🤖 [Agent-skills-setup-for-AntiGravity](https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity)
+*Automated agent skills configuration and setup tool for AntiGravity IDE.*
+* ⭐ **456 Stars**
+* 🛠️ **Tech Stack**: 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+
+---
+
+#### 📦 [CourierXpress](https://github.com/dokhacgiakhoa/CourierXpress)
+*An Enterprise Logistics Platform designed for scalable supply chain management.*
+* 🛠️ **Tech Stack**: 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+
+---
+
+#### 🎥 [videos-by-AI](https://github.com/Dokhacgiakhoa/videos-by-AI)
+*AI-driven automated video generation and processing pipeline.*
+* 🛠️ **Tech Stack**: 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FFmpeg-007800?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+
+---
+
+#### ☯️ [Khoa Học Tâm Linh](https://dokhacgiakhoa.github.io/khoa-hoc-tam-linh/)
+*AI-powered platform for Bát Tự (Four Pillars) and Numerology analysis.*
+* 🛠️ **Tech Stack**: 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+
+---
+
+#### 📊 [git-page-3d-infographic](https://github.com/Dokhacgiakhoa/git-page-3d-infographic)
+*An automated tool to generate 3D contribution graphs and infographics for GitHub Profiles.*
+* 🛠️ **Tech Stack**: 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
+  <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=white" alt="SVG" />
+
+---
+
+#### 🏫 [Office-box-Academy](https://github.com/Dokhacgiakhoa/Office-Box-Academy)
+*An interactive educational academy platform built for modern learning.*
+* 🛠️ **Tech Stack**: 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 
 ---
 
