@@ -21,7 +21,7 @@
 <p align="center">
   <b>🤖 AI & Large Language Models</b><br/>
   <a href="https://deepmind.google/technologies/gemini/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+    <img src="https://img.shields.io/badge/Google_Gemini-6366F1?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.anthropic.com/claude" target="_blank">
@@ -73,14 +73,14 @@
 #### 🤖 [Agent-skills-setup-for-AntiGravity](https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity)
 *Automated agent skills configuration and setup tool for AntiGravity IDE.*
 * <img src="profile-3d-custom/stars-agent-skills.svg" alt="Stars" /> <img src="profile-3d-custom/last-commit-agent-skills.svg" alt="Last Commit" />
-* <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white" alt="Antigravity" /> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
+* <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Google_Gemini-6366F1?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white" alt="Antigravity" /> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
 
 ---
 
 #### ☯️ [Khoa Học Tâm Linh](https://dokhacgiakhoa.github.io/khoa-hoc-tam-linh/)
 *AI-powered platform for Bát Tự (Four Pillars) and Numerology analysis.*
 * <img src="profile-3d-custom/stars-tam-linh.svg" alt="Stars" /> <img src="profile-3d-custom/last-commit-tam-linh.svg" alt="Last Commit" />
-* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/Google_Gemini-6366F1?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 
 ---
 
@@ -94,7 +94,7 @@
 #### 🎥 [videos-by-AI](https://github.com/Dokhacgiakhoa/videos-by-AI)
 *AI-driven automated video generation and processing pipeline.*
 * <img src="profile-3d-custom/stars-videos-ai.svg" alt="Stars" /> <img src="profile-3d-custom/last-commit-videos-ai.svg" alt="Last Commit" />
-* <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/FFmpeg-007800?style=flat&logo=ffmpeg&logoColor=white" alt="FFmpeg" /> <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+* <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/FFmpeg-007800?style=flat&logo=ffmpeg&logoColor=white" alt="FFmpeg" /> <img src="https://img.shields.io/badge/Google_Gemini-6366F1?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 
 ---
 
