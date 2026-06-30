@@ -73,6 +73,7 @@
 #### 🤖 [Agent-skills-setup-for-AntiGravity](https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity)
 *Automated agent skills configuration and setup tool for AntiGravity IDE.*
 * ⭐ **457 Stars**
+* 📅 <img src="https://img.shields.io/github/last-commit/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity?style=flat-square&label=Last%20Commit&labelColor=2d2d44&color=20E3B2" alt="Last Commit" />
 * 🛠️ **Tech Stack**: 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
@@ -84,6 +85,7 @@
 #### ☯️ [Khoa Học Tâm Linh](https://dokhacgiakhoa.github.io/khoa-hoc-tam-linh/)
 *AI-powered platform for Bát Tự (Four Pillars) and Numerology analysis.*
 * ⭐ **2 Stars**
+* 📅 <img src="https://img.shields.io/github/last-commit/Dokhacgiakhoa/khoa-hoc-tam-linh?style=flat-square&label=Last%20Commit&labelColor=2d2d44&color=20E3B2" alt="Last Commit" />
 * 🛠️ **Tech Stack**: 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -94,6 +96,7 @@
 
 #### 📊 [git-page-3d-infographic](https://github.com/Dokhacgiakhoa/git-page-3d-infographic)
 *An automated tool to generate 3D contribution graphs and infographics for GitHub Profiles.*
+* 📅 <img src="https://img.shields.io/github/last-commit/Dokhacgiakhoa/git-page-3d-infographic?style=flat-square&label=Last%20Commit&labelColor=2d2d44&color=20E3B2" alt="Last Commit" />
 * 🛠️ **Tech Stack**: 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -104,6 +107,7 @@
 
 #### 🎥 [videos-by-AI](https://github.com/Dokhacgiakhoa/videos-by-AI)
 *AI-driven automated video generation and processing pipeline.*
+* 📅 <img src="https://img.shields.io/github/last-commit/Dokhacgiakhoa/videos-by-AI?style=flat-square&label=Last%20Commit&labelColor=2d2d44&color=20E3B2" alt="Last Commit" />
 * 🛠️ **Tech Stack**: 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -114,6 +118,7 @@
 
 #### 🏫 [Office-box-Academy](https://github.com/Dokhacgiakhoa/Office-Box-Academy)
 *An interactive educational academy platform built for modern learning.*
+* 📅 <img src="https://img.shields.io/github/last-commit/Dokhacgiakhoa/Office-Box-Academy?style=flat-square&label=Last%20Commit&labelColor=2d2d44&color=20E3B2" alt="Last Commit" />
 * 🛠️ **Tech Stack**: 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -124,6 +129,7 @@
 
 #### 📦 [CourierXpress](https://github.com/dokhacgiakhoa/CourierXpress)
 *An Enterprise Logistics Platform designed for scalable supply chain management.*
+* 📅 <img src="https://img.shields.io/badge/Last_Commit-Dec_2024-20E3B2?style=flat-square&labelColor=2d2d44" alt="Last Commit" />
 * 🛠️ **Tech Stack**: 
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
