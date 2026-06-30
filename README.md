@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.anthropic.com/claude" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+    <img src="profile-3d-custom/claude-badge-large.svg" alt="Anthropic Claude" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity" target="_blank">
