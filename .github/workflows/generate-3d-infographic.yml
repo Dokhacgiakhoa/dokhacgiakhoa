@@ -46,6 +46,13 @@ jobs:
           mv 3d-tool/github-contribution-3d-dark.svg profile-3d-custom/
           mv 3d-tool/github-contribution-3d-light.svg profile-3d-custom/
       
+      - name: Optimize SVG Files
+        run: |
+          npx svgo profile-3d-custom/github-contribution-3d-dark.svg -o profile-3d-custom/github-contribution-3d-dark.svg
+          npx svgo profile-3d-custom/github-contribution-3d-light.svg -o profile-3d-custom/github-contribution-3d-light.svg
+          npx svgo profile-3d-custom/name-dark.svg -o profile-3d-custom/name-dark.svg
+          npx svgo profile-3d-custom/name-light.svg -o profile-3d-custom/name-light.svg
+      
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"

@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="40" viewBox="0 0 420 40">
-  <text x="0" y="30" font-size="28" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">
-    <tspan fill="#ffffff">Hi, I'm </tspan><tspan fill="#FFD700">ĐỖ KHẮC GIA KHOA</tspan>
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="40" viewBox="0 0 420 40"><text y="30" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="bold">
+    <tspan fill="#fff">Hi, I&apos;m </tspan><tspan fill="gold">ĐỖ KHẮC GIA KHOA</tspan>
+  </text></svg>
