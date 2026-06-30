@@ -71,7 +71,7 @@
 ### 🔮 Ecosystem & Projects Architecture
 
 ```mermaid
-graph TB
+graph LR
     %% Khai báo Style cho các Node
     classDef core fill:#8a2be2,stroke:#fff,stroke-width:2px,color:#fff,rx:10px,ry:10px;
     classDef branch fill:#1f1f2e,stroke:#a855f7,stroke-width:1.5px,color:#e9d5ff,rx:8px,ry:8px;
