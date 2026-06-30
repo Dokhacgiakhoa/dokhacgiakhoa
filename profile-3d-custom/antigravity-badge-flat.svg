@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="115" height="20">
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="20">
   <defs>
     <linearGradient id="anti-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#4285F4" />
@@ -7,9 +7,9 @@
       <stop offset="100%" stop-color="#EA4335" />
     </linearGradient>
   </defs>
-  <rect width="115" height="20" rx="3" fill="url(#anti-grad)" />
-  <g transform="translate(10, 2) scale(0.7)">
+  <rect width="97" height="20" rx="3" fill="url(#anti-grad)" />
+  <g transform="translate(6, 2) scale(0.7)">
     <path d="M12 3c0 4.97-4.03 9-9 9 4.97 0 9 4.03 9 9 0-4.97 4.03-9 9-9-4.97 0-9-4.03-9-9z" fill="#ffffff"/>
   </g>
-  <text x="34" y="14" fill="#ffffff" font-family="DejaVu Sans,Verdana,sans-serif" font-size="10.5" font-weight="bold">Antigravity</text>
+  <text x="27" y="14" fill="#ffffff" font-family="DejaVu Sans,Verdana,sans-serif" font-size="10.5" font-weight="bold">Antigravity</text>
 </svg>
