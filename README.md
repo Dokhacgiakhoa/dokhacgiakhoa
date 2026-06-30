@@ -86,8 +86,10 @@ graph LR
         KAILabs["🚀 Founder & Lead"]:::branch
         ASA["🤖 Agent Skills Setup<br/>(456 ⭐ | Python)"]:::ai
         VAI["🎥 Videos by AI<br/>(TypeScript)"]:::ai
+        GP3D["📊 3D Infographic Tool<br/>(JS/Node)"]:::ai
         KAILabs -->|Research| ASA
         KAILabs -->|Develop| VAI
+        KAILabs -->|Automate| GP3D
     end
 
     subgraph Web_Hub ["☯️ Vnonymus — Enterprise Solutions"]
@@ -95,8 +97,10 @@ graph LR
         Vnonymus["💻 Technical Leader"]:::branch
         CX["📦 CourierXpress<br/>(Laravel + React)"]:::project
         KHTL["🔮 Khoa Học Tâm Linh<br/>(Google Gemini)"]:::project
+        OBA["🏫 Office Box Academy<br/>(React + Node)"]:::project
         Vnonymus -->|Architect| CX
         Vnonymus -->|Deploy| KHTL
+        Vnonymus -->|Build| OBA
     end
 
     %% Kết nối từ Core
@@ -171,6 +175,38 @@ graph LR
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
         <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">📊 git-page-3d-infographic</h4>
+      <p align="center"><i>An automated tool to generate 3D contribution graphs and infographics for GitHub Profiles.</i></p>
+      <p align="center">
+        <a href="https://github.com/Dokhacgiakhoa/git-page-3d-infographic" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
+        <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=white" alt="SVG" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🏫 Office-box-Academy</h4>
+      <p align="center"><i>An interactive educational academy platform built for modern learning.</i></p>
+      <p align="center">
+        <a href="https://github.com/Dokhacgiakhoa/Office-Box-Academy" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
       </p>
     </td>
   </tr>
