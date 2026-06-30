@@ -8,9 +8,10 @@
     </linearGradient>
   </defs>
   <rect width="102" height="20" rx="3" fill="url(#anti-grad)" />
-  <g transform="translate(6, 2) scale(0.7)" fill="#ffffff">
-    <circle cx="12" cy="7" r="3.2" />
-    <path d="M 5 15 Q 12 20 19 15" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <g transform="translate(6, 2) scale(0.7)">
+    <circle cx="12" cy="2" r="2" fill="#ffffff" />
+    <path d="M4 21 L12 6 L20 21" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="9" y1="15" x2="15" y2="15" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" />
   </g>
   <text x="62.5" y="14" text-anchor="middle" fill="#ffffff" font-family="DejaVu Sans,Verdana,sans-serif" font-size="10.5" font-weight="bold">Antigravity</text>
 </svg>
