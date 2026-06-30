@@ -198,13 +198,7 @@ graph LR
 ---
 
 ### 🎥 Latest YouTube Videos
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Dự án KHOA HỌC TÂM LINH](https://www.youtube.com/watch?v=p2mQK-6XpcI) (31/12/2025)
-- [AI Agent Là Gì? Khi AI Biết &quot;Tự Suy Nghĩ&quot; &amp; &quot;Hành Động&quot; &lpar;Giải mã xu hướng 2025&rpar;](https://www.youtube.com/watch?v=DnP6N1LioWw) (15/12/2025)
-- [Hướng dẫn Vibe Coding bằng Gemini 3 và Google Antigravity](https://www.youtube.com/watch?v=I9S_PlaxX-w) (29/11/2025)
-- [Hydro Shop Channel Vlog 01](https://www.youtube.com/watch?v=OvXEBfbRG0c) (07/12/2019)
-- [Múa lửa Hồ Gươm](https://www.youtube.com/watch?v=4LouIdM5Sa0) (13/09/2019)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+<!-- YOUTUBE-VIDEOS-LIST:START -->- [Dự án KHOA HỌC TÂM LINH](https://www.youtube.com/watch?v=p2mQK-6XpcI) (31/12/2025)- [AI Agent Là Gì? Khi AI Biết &quot;Tự Suy Nghĩ&quot; &amp; &quot;Hành Động&quot; &lpar;Giải mã xu hướng 2025&rpar;](https://www.youtube.com/watch?v=DnP6N1LioWw) (15/12/2025)- [Hướng dẫn Vibe Coding bằng Gemini 3 và Google Antigravity](https://www.youtube.com/watch?v=I9S_PlaxX-w) (29/11/2025)- [Hydro Shop Channel Vlog 01](https://www.youtube.com/watch?v=OvXEBfbRG0c) (07/12/2019)- [Múa lửa Hồ Gươm](https://www.youtube.com/watch?v=4LouIdM5Sa0) (13/09/2019)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
 
