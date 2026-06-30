@@ -72,7 +72,7 @@
 
 #### 🤖 [Agent-skills-setup-for-AntiGravity](https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity)
 *Automated agent skills configuration and setup tool for AntiGravity IDE.*
-* ⭐ **456 Stars**
+* ⭐ **457 Stars**
 * 🛠️ **Tech Stack**: 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
@@ -81,28 +81,9 @@
 
 ---
 
-#### 📦 [CourierXpress](https://github.com/dokhacgiakhoa/CourierXpress)
-*An Enterprise Logistics Platform designed for scalable supply chain management.*
-* 🛠️ **Tech Stack**: 
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-
----
-
-#### 🎥 [videos-by-AI](https://github.com/Dokhacgiakhoa/videos-by-AI)
-*AI-driven automated video generation and processing pipeline.*
-* 🛠️ **Tech Stack**: 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FFmpeg-007800?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-
----
-
 #### ☯️ [Khoa Học Tâm Linh](https://dokhacgiakhoa.github.io/khoa-hoc-tam-linh/)
 *AI-powered platform for Bát Tự (Four Pillars) and Numerology analysis.*
+* ⭐ **2 Stars**
 * 🛠️ **Tech Stack**: 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -121,6 +102,16 @@
 
 ---
 
+#### 🎥 [videos-by-AI](https://github.com/Dokhacgiakhoa/videos-by-AI)
+*AI-driven automated video generation and processing pipeline.*
+* 🛠️ **Tech Stack**: 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FFmpeg-007800?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/Google_Gemini-9177C7?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+
+---
+
 #### 🏫 [Office-box-Academy](https://github.com/Dokhacgiakhoa/Office-Box-Academy)
 *An interactive educational academy platform built for modern learning.*
 * 🛠️ **Tech Stack**: 
@@ -128,6 +119,16 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+
+---
+
+#### 📦 [CourierXpress](https://github.com/dokhacgiakhoa/CourierXpress)
+*An Enterprise Logistics Platform designed for scalable supply chain management.*
+* 🛠️ **Tech Stack**: 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 
 ---
 
